@@ -3,3 +3,5 @@
 # Content
 ### Day 1:createHelloWorld
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Hello%20World%20by%20Function.js)
+### Day 2:Counter
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Counter.js)
