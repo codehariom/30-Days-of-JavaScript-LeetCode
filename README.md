@@ -7,3 +7,5 @@
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Counter.js)
 ### Day 3: To be Or Not To be 
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/To%20Be%20Or%20Not%20To%20Be.js)
+### Day 3: Increment/ decrement/reset 
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Counter%202.js)
