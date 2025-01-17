@@ -7,5 +7,7 @@
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Counter.js)
 ### Day 3: To be Or Not To be 
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/To%20Be%20Or%20Not%20To%20Be.js)
-### Day 3: Increment/ decrement/reset 
+### Day 4: Increment/ decrement/reset 
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Counter%202.js)
+### Day 5: . Apply Transform Over Each Element in Array
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Apply%20Transform%20Over%20Each%20Element%20in%20Array.js)
