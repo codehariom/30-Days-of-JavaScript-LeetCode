@@ -12,4 +12,4 @@
 ### Day 5: . Apply Transform Over Each Element in Array
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Apply%20Transform%20Over%20Each%20Element%20in%20Array.js)
 ### Day 6: . Filter Elements from Array
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Apply%20Transform%20Over%20Each%20Element%20in%20Array.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Filter%20Elements%20from%20Array.js)
