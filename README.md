@@ -13,3 +13,5 @@
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Apply%20Transform%20Over%20Each%20Element%20in%20Array.js)
 ### Day 6: . Filter Elements from Array
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Filter%20Elements%20from%20Array.js)
+### Day 7: . Array Reduce Transformation
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Array%20Reduce%20Transformation.js)
