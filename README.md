@@ -15,3 +15,5 @@
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Filter%20Elements%20from%20Array.js)
 ### Day 7: . Array Reduce Transformation
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Array%20Reduce%20Transformation.js)
+### Day 8: . Function Compositions
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Function%20Composition.js)
