@@ -18,4 +18,4 @@
 ### Day 8: . Function Compositions
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Function%20Composition.js)
 ### Day 8: . Return Length of Arguments Passed
-[View Solution]()
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Return%20Length%20of%20Arguments%20Passed.js)
