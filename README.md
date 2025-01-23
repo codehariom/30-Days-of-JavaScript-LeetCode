@@ -19,3 +19,5 @@
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Function%20Composition.js)
 ### Day 9: . Return Length of Arguments Passed
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Return%20Length%20of%20Arguments%20Passed.js)
+### Day 10: . Allow One Function Call
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Return%20Length%20of%20Arguments%20Passed.js)
