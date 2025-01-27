@@ -24,4 +24,4 @@
 ### Day 11:  Memoize
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Memoize.js)
 ### Day 12:Add Two Promises
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Memoize.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Add%20Two%20Promises.js)
