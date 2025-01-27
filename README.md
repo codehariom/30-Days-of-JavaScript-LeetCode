@@ -25,3 +25,5 @@
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Memoize.js)
 ### Day 12:Add Two Promises
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Add%20Two%20Promises.js)
+### Day 13: Sleep
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/sleep.js)
