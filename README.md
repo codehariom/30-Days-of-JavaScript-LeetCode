@@ -29,5 +29,5 @@
 ### Day 13: Sleep
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/sleep.js)
 ### Day 14: Timeout Cancellation
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/sleep.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Timeout%20Cancellation.js)
 
