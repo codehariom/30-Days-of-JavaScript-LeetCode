@@ -31,4 +31,4 @@
 ### Day 14: Timeout Cancellation
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Timeout%20Cancellation.js)
 ### Day 15: Internval Cancellation
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Timeout%20Cancellation.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Interval%20Cancellation.js)
