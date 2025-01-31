@@ -35,4 +35,4 @@
 ### Day 16: Promise Time Limit
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Promise%20Time%20Limit.js)
 ### Day 17: Cache With Time Limit
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Promise%20Time%20Limit.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
