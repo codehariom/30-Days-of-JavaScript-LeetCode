@@ -38,3 +38,5 @@
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
 ### Day 18: Debounce
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+### Day 18: Execute Asynchronous Functions in Parallel
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
