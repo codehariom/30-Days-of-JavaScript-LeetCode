@@ -37,15 +37,15 @@
 ### Day 17: Cache With Time Limit
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
 ### Day 18: Debounce
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/%20Debounce.js)
 ### Day 18: Execute Asynchronous Functions in Parallel
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Execute%20Asynchronous%20Functions%20in%20Parallel.js)
 ### Day 19: Is Object Empty
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Is%20Object%20Empty.js)
 ### Day 20:  Chunk Array
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Chunk%20Array.js)
 ### Day 21: Array Prototype Last
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Array%20Prototype%20Last.js)
 ### Day 22: Group By
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
 ### Day 23:  Sort By
