@@ -38,19 +38,27 @@
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
 ### Day 18: Debounce
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/%20Debounce.js)
-### Day 18: Execute Asynchronous Functions in Parallel
+### Day 19: Execute Asynchronous Functions in Parallel
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Execute%20Asynchronous%20Functions%20in%20Parallel.js)
-### Day 19: Is Object Empty
+### Day 20: Is Object Empty
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Is%20Object%20Empty.js)
-### Day 20:  Chunk Array
+### Day 21:  Chunk Array
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Chunk%20Array.js)
-### Day 21: Array Prototype Last
+### Day 22: Array Prototype Last
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Array%20Prototype%20Last.js)
-### Day 22: Group By
+### Day 23: Group By
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Group%20By.js)
-### Day 23:  Sort By
+### Day 24:  Sort By
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Sort%20By.JS)
-### Day 24: Join Two Arrays by ID
+### Day 25: Join Two Arrays by ID
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
-### Day 25: Flatten Deeply Nested Array
+### Day 26: Flatten Deeply Nested Array
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+### Day 27: Compact Object
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+### Day 28: Event Emitter
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+### Day 29:  Array Wrapper
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+### Day 30: Calculator with Method Chaining
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
