@@ -51,14 +51,14 @@
 ### Day 24:  Sort By
 [View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Sort%20By.JS)
 ### Day 25: Join Two Arrays by ID
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Join%20Two%20Arrays%20by%20ID.js)
 ### Day 26: Flatten Deeply Nested Array
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Flatten%20Deeply%20Nested%20Array.js)
 ### Day 27: Compact Object
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Compact%20Object.js)
 ### Day 28: Event Emitter
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Event%20Emitter.js)
 ### Day 29:  Array Wrapper
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Array%20Wrapper.js)
 ### Day 30: Calculator with Method Chaining
-[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Cache%20With%20Time%20Limit.js)
+[View Solution](https://github.com/codehariom/30-Days-of-JavaScript-LeetCode/blob/main/Calculator%20with%20Method%20Chaining.js)
